@@ -66,7 +66,6 @@ const Todo = () => {
       <ToastContainer />
       <header className="flex justify-center mb-8">
         <h1 className="text-white text-4xl font-bold">Todo List</h1>
-        <h1>gaurav</h1>
       </header>
 
       <TodoDate />
